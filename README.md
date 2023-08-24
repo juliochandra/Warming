@@ -19,7 +19,9 @@
 ## Ceritakan dong Motivasi teman-teman join dengan kelas ini
 
 > Saya bergabung dengan kelas ini karena .....
-
+Saya ingin belejar webdev
+Ingin memiliki skill webdev
+Ingin berkarir diindustri webdev
  
 
  
@@ -27,3 +29,5 @@
 ## Lalu harapan teman-teman miliki
 
 > Harapan saya selama kelas ini .....
+Dapat belajar webdev
+Meningkatkan skill webdev
